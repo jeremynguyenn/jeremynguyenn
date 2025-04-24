@@ -22,6 +22,6 @@ I study Mechatronic & Robotic Engineering<br>My specialize is Robotic and Embedd
 Feel free to explore my repositories, contribute to ongoing projects, or reach out for collaboration!
 
 - 📧 **Email**: [nguyentrungnhan2701@gmail.com](mailto:nguyentrungnhan2701@gmail.com)
-- 💼 **LinkedIn**: [Nhân. Nguyễn Trung](www.linkedin.com/in/nhân-nguyễn-trung-300010227)
+- 💼 **LinkedIn**: [Nhân. Nguyễn Trung](https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-trung-300010227/)
 
 Let's build something amazing together!
