@@ -17,3 +17,11 @@ I study Mechatronic & Robotic Engineering<br>My specialize is Robotic and Embedd
 [![](https://visitcount.itsvg.in/api?id=jeremynguyenn&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🌐 Get in Touch
+Feel free to explore my repositories, contribute to ongoing projects, or reach out for collaboration!
+
+- 📧 **Email**: [nguyentrungnhan2701@gmail.com](mailto:nguyentrungnhan2701@gmail.com)
+- 💼 **LinkedIn**: [Nhân. Nguyễn Trung](www.linkedin.com/in/nhân-nguyễn-trung-300010227)
+
+Let's build something amazing together!
