@@ -1,5 +1,5 @@
 # 💫 About Me:
-I study Mechatronic & Robotic Engineering<br>My specialize is Robotic and Embedded Systems.<br><br>🌱 Currently Learning: Advanced sensor fusion techniques, Advanced Embedded Systems and Autonomous Vehicles.<br>🔧 Skills: C/C++, Python, Embedded C, MQTT, Node-RED, Modbus, Common Serial Communication Protocol(I2C, SPI, DMA, CAN, LIN, FlexRay, UART, WIFI, Bluetooth BLE and more)<br>🎯 Focus Areas: IoT, Embedded Driver System(Kernel, Yocto,..), Autonomous Vehicles and Robotic.<br>🛠 Tools & Platforms:  ESP32, Raspberry Pi, STM32, Embedded Linux.
+I study Mechatronic & Robotic Engineering<br>My specialize is Robotic and Embedded Systems.<br><br>🌱 Currently Learning: Advanced sensor fusion techniques, Advanced Embedded Systems and Autonomous Vehicles.<br>🔧 Skills: C/C++, Python, Embedded C, MQTT, Node-RED, Modbus, Common Serial Communication Protocol(I2C, SPI, DMA, CAN, LIN, FlexRay, UART, WIFI, Bluetooth BLE and more)<br>🎯 Focus Areas: IoT, Embedded Driver System(Device Driver, Kernel Driver, Yocto,..), Autonomous Vehicles and Robotic.<br>🛠 Tools & Platforms:  ESP32, Raspberry Pi, STM32, Embedded Linux.
 
 
 # 💻 Tech Stack:
